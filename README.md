@@ -11,7 +11,7 @@ Django ( recomandate 2.0, or above)
 Steps to be followed:
 
 	Clone the central repo :
-		https://github.com/kousikpanda2013/restapi.git
+		git clone https://github.com/kousikpanda2013/restapi.git
 
 	Project setup:
 		
